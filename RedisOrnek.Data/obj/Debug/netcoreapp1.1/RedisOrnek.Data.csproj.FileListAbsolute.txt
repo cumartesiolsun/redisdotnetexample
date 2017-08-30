@@ -1,0 +1,7 @@
+c:\users\ilker.aydogmus\documents\visual studio 2017\Projects\RedisOrnek\RedisOrnek.Data\bin\Debug\netcoreapp1.1\RedisOrnek.Data.deps.json
+c:\users\ilker.aydogmus\documents\visual studio 2017\Projects\RedisOrnek\RedisOrnek.Data\bin\Debug\netcoreapp1.1\RedisOrnek.Data.dll
+c:\users\ilker.aydogmus\documents\visual studio 2017\Projects\RedisOrnek\RedisOrnek.Data\obj\Debug\netcoreapp1.1\RedisOrnek.Data.AssemblyInfo.cs
+C:\Users\ilker.aydogmus\Documents\Visual Studio 2017\Projects\RedisOrnek\RedisOrnek.Data\obj\Debug\netcoreapp1.1\RedisOrnek.Data.csprojResolveAssemblyReference.cache
+C:\Users\ilker.aydogmus\Documents\Visual Studio 2017\Projects\RedisOrnek\RedisOrnek.Data\bin\Debug\netcoreapp1.1\RedisOrnek.Data.pdb
+C:\Users\ilker.aydogmus\Documents\Visual Studio 2017\Projects\RedisOrnek\RedisOrnek.Data\obj\Debug\netcoreapp1.1\RedisOrnek.Data.dll
+C:\Users\ilker.aydogmus\Documents\Visual Studio 2017\Projects\RedisOrnek\RedisOrnek.Data\obj\Debug\netcoreapp1.1\RedisOrnek.Data.pdb

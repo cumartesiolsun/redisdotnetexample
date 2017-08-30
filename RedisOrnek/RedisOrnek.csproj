@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="10.0.2" />
+    <PackageReference Include="StackExchange.Redis" Version="1.2.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RedisOrnek.Data\RedisOrnek.Data.csproj" />
+    <ProjectReference Include="..\RedisOrnek.Model\RedisOrnek.Model.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisOrnek", "RedisOrnek\RedisOrnek.csproj", "{9BB9E30C-420E-4A7E-A7FC-2C5B6AAF378B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisOrnek.Data", "RedisOrnek.Data\RedisOrnek.Data.csproj", "{EB7EEB1F-4BBA-42A5-814B-63BF8270CDD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisOrnek.Model", "RedisOrnek.Model\RedisOrnek.Model.csproj", "{504D3BEF-629F-4C9E-9F90-74EDF63F43DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BB9E30C-420E-4A7E-A7FC-2C5B6AAF378B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BB9E30C-420E-4A7E-A7FC-2C5B6AAF378B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BB9E30C-420E-4A7E-A7FC-2C5B6AAF378B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BB9E30C-420E-4A7E-A7FC-2C5B6AAF378B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB7EEB1F-4BBA-42A5-814B-63BF8270CDD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB7EEB1F-4BBA-42A5-814B-63BF8270CDD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB7EEB1F-4BBA-42A5-814B-63BF8270CDD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB7EEB1F-4BBA-42A5-814B-63BF8270CDD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{504D3BEF-629F-4C9E-9F90-74EDF63F43DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{504D3BEF-629F-4C9E-9F90-74EDF63F43DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{504D3BEF-629F-4C9E-9F90-74EDF63F43DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{504D3BEF-629F-4C9E-9F90-74EDF63F43DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
